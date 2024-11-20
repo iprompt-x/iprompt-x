@@ -140,8 +140,7 @@ By using this project or its source code, for any purpose and in any shape or fo
     <img src="favicon1.png" alt="Icon" />
 </p>
 
-**YoutubeExplode** is a library that provides an interface to query metadata of YouTube videos, playlists and channels, as well as to resolve and download video streams and closed caption tracks.
-Behind a layer of abstraction, this library works by scraping raw page data and exploiting reverse-engineered internal endpoints.
+**YoutubeExplode** คือ **library** ที่มีอินเทอร์เฟซเพื่อสืบค้นข้อมูลเมตาของวิดีโอ เพลย์ลิสต์ และช่อง YouTube ตลอดจนแก้ไขและดาวน์โหลดสตรีมวิดีโอและแทร็กคําบรรยาย เบื้องหลังเลเยอร์ของนามธรรมไลบรารีนี้ทํางานโดยการขูดข้อมูลหน้าดิบและใช้ประโยชน์จากปลายทางภายในที่ออกแบบย้อนกลับ
 
 > 📝 Interested in the inner workings of this library?
 > See the [Reverse-Engineering YouTube](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited) article.
