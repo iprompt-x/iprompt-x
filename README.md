@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <table>
     <tr>
-        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="#">Consider donating to support!</a></b></td>
+        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="https://www.facebook.com/BangkokCustom?locale=th_TH">sponsor support!</a></b></td>
     </tr>
 </table>
 <a href="https://bangkokcustom.com"> 
