@@ -73,9 +73,9 @@ Here are some ideas to get you started:
     <img src="favicon.png" alt="Icon" />
 </p>
 
-**YoutubeDownloader** is an application that lets you download videos from YouTube.
-You can copy-paste URL of any video, playlist or channel and download it directly to a format of your choice.
-It also supports searching by keywords, which is helpful if you want to quickly look up and download videos.
+**YoutubeDownloader** เป็นแอพพลิเคชั่นที่ให้คุณดาวน์โหลดวิดีโอจาก YouTube
+คุณสามารถคัดลอกวาง URL ของวิดีโอ เพลย์ลิสต์ หรือช่องใดก็ได้ และดาวน์โหลดโดยตรงไปยังรูปแบบที่คุณต้องการ
+นอกจากนี้ยังรองรับการค้นหาด้วยคำหลักซึ่งมีประโยชน์หากคุณต้องการค้นหาและดาวน์โหลดวิดีโออย่างรวดเร็ว
 
 > **Note**:
 > This application uses [**YoutubeExplode**](https://github.com/Tyrrrz/YoutubeExplode) under the hood to interact with YouTube.
@@ -106,18 +106,18 @@ To learn more about the war and how you can help, [click here](https://tyrrrz.me
 
 ## Features
 
-- Cross-platform graphical user interface
-- Download videos by URL
-- Download videos from playlists or channels
-- Download videos by search query
-- Selectable video quality and format
-- Automatically embed subtitles
-- Automatically inject media tags
-- Log in with a YouTube account to access private content
+- อินเทอร์เฟซผู้ใช้แบบกราฟิกข้ามแพลตฟอร์ม
+- ดาวน์โหลดวิดีโอตาม URL
+- ดาวน์โหลดวิดีโอจากเพลย์ลิสต์หรือช่อง
+- ดาวน์โหลดวิดีโอตามคำค้นหา
+- เลือกคุณภาพและรูปแบบวิดีโอได้
+- ฝังคำบรรยายอัตโนมัติ
+- ใส่แท็กสื่ออัตโนมัติ
+- เข้าสู่ระบบด้วยบัญชี YouTube เพื่อเข้าถึงเนื้อหาส่วนตัว
 
 ## Screenshots
 
-![list](.assets/list.png)
-![single](.assets/single.png)
-![multiple](.assets/multiple.png)
+![list](assets/list.png)
+![single](assets/single.png)
+![multiple](assets/multiple.png)
 
