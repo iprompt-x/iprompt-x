@@ -65,13 +65,13 @@ Here are some ideas to get you started:
 
 <table>
     <tr>
-        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="https://tyrrrz.me/donate">Consider donating to support!</a></b></td>
+        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="#">Consider donating to support!</a></b></td>
     </tr>
 </table>
-
-<p align="center">
+<a href="#">
+    <p align="center">
     <img src="favicon.png" alt="Icon" />
-</p>
+    </p> </a>
 
 **YoutubeDownloader** เป็นแอพพลิเคชั่นที่ให้คุณดาวน์โหลดวิดีโอจาก YouTube
 คุณสามารถคัดลอกวาง URL ของวิดีโอ เพลย์ลิสต์ หรือช่องใดก็ได้ และดาวน์โหลดโดยตรงไปยังรูปแบบที่คุณต้องการ
@@ -86,9 +86,6 @@ Here are some ideas to get you started:
 By using this project or its source code, for any purpose and in any shape or form, you grant your **implicit agreement** to all the following statements:
 
 
-- You **reject false narratives perpetuated by state**
-
-To learn more about the war and how you can help, [click here](https://tyrrrz.me/ukraine). Glory to Ukraine! 🇺🇦
 
 ## Download
 
