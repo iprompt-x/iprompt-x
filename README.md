@@ -132,12 +132,12 @@ By using this project or its source code, for any purpose and in any shape or fo
 
 <table>
     <tr>
-        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="https://tyrrrz.me/donate">Consider donating to support!</a></b></td>
+        <td width="99999" align="center">Development of this project is entirely funded by the community. <b><a href="#">Consider donating to support!</a></b></td>
     </tr>
 </table>
 
 <p align="center">
-    <img src="favicon.png" alt="Icon" />
+    <img src="favicon1.png" alt="Icon" />
 </p>
 
 **YoutubeExplode** is a library that provides an interface to query metadata of YouTube videos, playlists and channels, as well as to resolve and download video streams and closed caption tracks.
