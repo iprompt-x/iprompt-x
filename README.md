@@ -124,6 +124,8 @@ By using this project or its source code, for any purpose and in any shape or fo
 
 
 # YoutubeExplode
+<details>
+<summary>รายละเอียด.🔽</summary>
 
 [![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)](https://github.com/Tyrrrz/.github/blob/master/docs/project-status.md)
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://tyrrrz.me/ukraine)
@@ -539,3 +541,5 @@ In order to actually perform the authentication, you can use an embedded browser
 ## Etymology
 
 The "Explode" in **YoutubeExplode** comes from the name of a PHP function that splits up strings, [`explode(...)`](https://php.net/manual/en/function.explode.php). When I was starting the development of this library, most of the reference source code I read was written in PHP, hence the inspiration for the name.
+
+</details>
